@@ -1,2 +1,2 @@
-# crafty
-The app developed for Designers and Photographers.
+# Crafty
+An advance Image processing app.
